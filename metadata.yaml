@@ -1,0 +1,30 @@
+_repo: Joseph-and-his-Brethren_66884
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tweedie, W. K. (William King)
+    aliases:
+    - Tweedie, Rev. Dr. (William King)
+    - Tweedie, William King
+    birthdate: 1803
+    deathdate: 1863
+    gutenberg_agent_id: '44369'
+    url: http://www.gutenberg.org/2009/agents/44369
+description: ''
+gutenberg_issued: '2021-12-04'
+identifiers:
+  gutenberg: '66884'
+language: en
+pgterms:marc905: 20180113040353tweedie
+pgterms:marc906: '1872'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg.
+publication_note: United Kingdom :T. Nelson and Sons,1872.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Joseph and his Brethren
+url: http://www.gutenberg.org/ebooks/66884
